@@ -1,6 +1,8 @@
-# Breeze Neon
+# Breeze Neon · High Visibility Cursors
 
-High Visibility Cursors
+## preview image:
+
+![Bright Yellow Cursors](breeze-img/breeze-ff0.png)
 
 ## links and documentation:
 * [KDE / Breeze Cursors · GitHub](https://github.com/KDE/breeze/tree/master/cursors)
