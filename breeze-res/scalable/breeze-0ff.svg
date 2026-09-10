@@ -1,0 +1,57 @@
+<svg width="256" height="192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(4,4)">
+        <image x="0" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/default/default.svg" />
+        <image x="32" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/progress/progress-01.svg" />
+        <image x="64" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/help/help.svg" />
+        <image x="96" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/no-drop/no-drop.svg" />
+        <image x="128" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/copy/copy.svg" />
+        <image x="160" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/alias/alias.svg" />
+        <image x="192" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/zoom-in/zoom-in.svg" />
+        <image x="224" y="0" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/zoom-out/zoom-out.svg" />
+
+        <image x="0" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/pirate/pirate.svg" />
+        <image x="32" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/context-menu/context-menu.svg" />
+        <image x="64" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/center_ptr/center_ptr.svg" />
+        <image x="96" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/right_ptr/right_ptr.svg" />
+        <image x="128" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/pointer/pointer.svg" />
+        <image x="160" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/openhand/openhand.svg" />
+        <image x="192" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/dnd-move/dnd-move.svg" />
+        <image x="224" y="32" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/dnd-no-drop/dnd-no-drop.svg" />
+
+        <image x="0" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/draft/draft.svg" />
+        <image x="32" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/top_left_corner/top_left_corner.svg" />
+        <image x="64" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/top_side/top_side.svg" />
+        <image x="96" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/top_right_corner/top_right_corner.svg" />
+        <image x="128" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/left-arrow/left-arrow.svg" />
+        <image x="160" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/col-resize/col-resize.svg" />
+        <image x="192" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/right-arrow/right-arrow.svg" />
+        <image x="224" y="64" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/up-arrow/up-arrow.svg" />
+
+        <image x="0" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/pencil/pencil.svg" />
+        <image x="32" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/left_side/left_side.svg" />
+        <image x="64" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/fleur/fleur.svg" />
+        <image x="96" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/right_side/right_side.svg" />
+        <image x="128" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/size_fdiag/size_fdiag.svg" />
+        <image x="160" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/size_hor/size_hor.svg" />
+        <image x="192" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/size_bdiag/size_bdiag.svg" />
+        <image x="224" y="96" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/row-resize/row-resize.svg" />
+
+        <image x="0" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/color-picker/color-picker.svg" />
+        <image x="32" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/bottom_left_corner/bottom_left_corner.svg" />
+        <image x="64" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/bottom_side/bottom_side.svg" />
+        <image x="96" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/bottom_right_corner/bottom_right_corner.svg" />
+        <image x="128" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/cell/cell.svg" />
+        <image x="160" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/size_ver/size_ver.svg" />
+        <image x="192" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/crosshair/crosshair.svg" />
+        <image x="224" y="128" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/down-arrow/down-arrow.svg" />
+
+        <image x="0" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/text/text.svg" />
+        <image x="32" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/vertical-text/vertical-text.svg" />
+        <image x="64" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/wait/wait-01.svg" />
+        <image x="96" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/not-allowed/not-allowed.svg" />
+        <image x="128" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/wayland-cursor/wayland-cursor.svg" />
+        <image x="160" y="160" height="24" width="24" xlink:href="../../breeze-0ff/cursors_scalable/x-cursor/x-cursor.svg" />
+
+        <text x="205" y="185" style="font-family: sans; font-weight: bold; fill: #0ff; stroke: #000">#0FF</text>
+    </g>
+</svg>
